@@ -16,6 +16,7 @@ The database consists of a single table, inventory, which includes the following
 - quantity (INTEGER): The number of units of the item available in the inventory.
 - price (REAL): The price of each unit of the item.
 - description (TEXT): A textual description of the item.
+
 This structure allows easy storage and retrieval of inventory items, and supports the basic CRUD operations needed for inventory management.
 
 # Development Environment
